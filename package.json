@@ -1,0 +1,19 @@
+{
+  "name": "messenger-app",
+  "version": "1.0.0",
+  "description": "Messenger app using NodeJs, ExpressJS, MongoDb, WebSocket, Ejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasirgit/MessengerApp.git"
+  },
+  "author": "Wasir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasirgit/MessengerApp/issues"
+  },
+  "homepage": "https://github.com/wasirgit/MessengerApp#readme"
+}
